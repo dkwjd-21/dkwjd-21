@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkwjd-21&show_icons=true&theme=radical&cache_seconds=86400" width="48%" alt="Ajeong's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkwjd-21&layout=compact&theme=radical&cache_seconds=86400" width="40%" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dkwjd-21&show_icons=true&theme=radical&v=2" width="48%" alt="Ajeong's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkwjd-21&layout=compact&theme=radical&v=2" width="40%" alt="Top Langs" />
 </p>
 
 ---
