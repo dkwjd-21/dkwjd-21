@@ -14,8 +14,6 @@
 - 🏆 **Hyundai Eziwel Java Full-Stack Academy** (Completed)
   - **Outstanding Trainee** (전체 수강생 중 상위 30%)
   - **Best Project Award** (최종 프로젝트 최우수상 수상 - 도서 구매 및 티켓팅 서비스)
-- 💼 **Normallyst** - Administrative Assistant (Apr 2025)
-  - 일본 서포터즈 가이드 작성 지원 및 마케팅 컨택 (JLPT N3 활용)
 
 ### 📜 Certifications & Language
 - 🗄️ **SQLD (SQL Developer)** - 한국데이터산업진흥원
