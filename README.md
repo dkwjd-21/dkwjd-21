@@ -4,7 +4,7 @@
 
 * **🏫 Education**: 숭실대학교 글로벌미디어학부 (IT대학)
 * **🏆 Experience**: 현대이지웰 Java Full-Stack 수료
-* **📜 License**: SQLD (SQL Developer)
+* **📜 License**: 정보처리기사, SQLD (SQL Developer)
 * **✍️ Blog**: [yurisekai.velog](https://velog.io/@yurisekai)
 * **📫 Contact**: dkwjd4774@naver.com
 
